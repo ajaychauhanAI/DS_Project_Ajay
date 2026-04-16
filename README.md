@@ -1,8 +1,8 @@
-# 🏨 Hotel Booking Data Analysis and Visualization
+# 🏨 Hotel Booking Data Handling and Visualization
 
 ## 📌 Project Overview
 
-This project focuses on analyzing hotel booking data to understand booking patterns and customer behavior. The dataset contains various features such as booking details, stay duration, and customer information, including some missing values.
+This project focuses on data cleaning hotel booking data to understand booking patterns and customer behavior. The dataset contains various features such as booking details, stay duration, and customer information, including some missing values.
 
 The project mainly involves data cleaning and data visualization to extract meaningful insights from the dataset.
 
