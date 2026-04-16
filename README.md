@@ -2,19 +2,18 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing hotel booking data to understand customer behavior, booking patterns, and cancellation trends. The dataset contains various features such as booking details, stay duration, and customer information, including missing values.
+This project focuses on analyzing hotel booking data to understand booking patterns and customer behavior. The dataset contains various features such as booking details, stay duration, and customer information, including some missing values.
 
-The project demonstrates the use of data cleaning, feature engineering, and data visualization techniques to extract meaningful insights from real-world data.
+The project mainly involves data cleaning and data visualization to extract meaningful insights from the dataset.
 
 ---
 
 ## 🎯 Objectives
 
 * To clean and preprocess the dataset
-* To handle missing values and inconsistencies
-* To perform exploratory data analysis (EDA)
-* To visualize important patterns using graphs
-* To create new features for better understanding
+* To handle missing values
+* To analyze booking patterns
+* To visualize data using graphs
 
 ---
 
@@ -22,60 +21,50 @@ The project demonstrates the use of data cleaning, feature engineering, and data
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 
 ---
 
-## 📂 Dataset Information
+## 📂 Dataset Details
 
-* Dataset: Hotel Booking Demand Dataset
-* Rows: 30,000 (sampled)
+* Dataset: Hotel Booking Dataset
+* Rows: 30,000
 * Columns: 30
-* Contains missing values and multiple features related to hotel bookings
+* Contains missing values and real-world booking data
 
 ---
 
-## ⚙️ Data Preprocessing
+## ⚙️ Data Cleaning
 
 * Removed columns with excessive missing values
-* Filled missing values using appropriate techniques
-* Checked and removed duplicate records
-
----
-
-## 🔧 Feature Engineering
-
-New features were created to improve data understanding:
-
-* Total Stay Duration
-* Total Number of People
-* Stay Type (Short/Long)
+* Handled missing values in important columns
+* Checked and removed duplicate rows
 
 ---
 
 ## 📊 Data Visualization
 
-The following visualizations were used:
+The following visualizations were performed:
 
-* Bar charts for categorical analysis
-* Histogram for distribution analysis
-* Scatter plots for relationship analysis
+* Bar charts for hotel type distribution
+* Bar charts for booking cancellation analysis
+* Histogram for lead time distribution
+* Line plot for trend analysis
 
 ---
 
 ## 📈 Key Insights
 
 * Most bookings are from city hotels
-* Customers with longer lead time may cancel bookings
-* Majority of customers prefer short stays
-* Pricing varies based on stay duration and number of people
+* Cancellation trends can be observed from the data
+* Lead time shows variation in booking behavior
+* Data visualization helps in understanding patterns
 
 ---
 
 ## 🧠 Conclusion
 
-The project successfully demonstrates how data cleaning and visualization can be used to analyze real-world datasets. Important patterns and relationships were identified, which can help in better understanding customer behavior and booking trends.
+This project demonstrates how data cleaning and visualization techniques can be used to analyze real-world datasets and extract useful insights.
 
 ---
 
@@ -89,4 +78,4 @@ BCA (Data Science & Artificial Intelligence)
 
 ## 📎 Note
 
-This project is created for academic purposes as part of coursework in Data Science.
+This project is developed for academic purposes as part of Data Science coursework.
