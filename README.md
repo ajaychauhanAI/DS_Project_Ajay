@@ -68,10 +68,10 @@ This project demonstrates how data cleaning and visualization techniques can be 
 
 ---
 
-👤 Author
+## 👤 Author
 
-Ajay Chauhan
-BCA (Data Science & Artificial Intelligence), 4th Semester
+- **Ajay Chauhan**  
+- BCA (Data Science & Artificial Intelligence), 4th Semester  
 
 ---
 
